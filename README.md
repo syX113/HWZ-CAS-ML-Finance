@@ -13,7 +13,6 @@ Welcome to the HWZ-CAS-ML-Finance Repository. This repository is dedicated to pr
 
 The repository is organized for ease of navigation:
 
-
 ```
 .
 ├── README.md
@@ -45,6 +44,7 @@ The repository is organized for ease of navigation:
 
 **Exercises:**
 - Performing train/validation/test splits.
+- Prepare the data for the neural network training.
 - Constructing a basic Neural Network using TensorFlow/Keras.
 - Analyzing overfitting/underfitting in trained networks.
 
@@ -60,6 +60,13 @@ The repository is organized for ease of navigation:
 **Use-Case:**
 - Implementing Algorithmic Trading strategies with ARIMA models.
 
+
+
+## Used Data Sources:
+- S&P 500 Stock Dataset (https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/data)
+- Credit Risk (https://www.kaggle.com/datasets/urvishvekariya/credit-risk-assessment)
+- Transactions (https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data)
+
 ---
 
-*Authored & Maintained by Tim Giger*
+*Repository authored & maintained by Tim Giger*
